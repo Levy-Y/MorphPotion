@@ -1,0 +1,11 @@
+name: MorphPotion
+version: '${project.version}'
+main: morphpotion.morphpotion.MorphPotion
+api-version: '1.20'
+depend: ["Morphy"]
+commands:
+  magicpotion:
+    description: Conjures a morphing potion with mysterious effects.
+    permission: morphpotion.admin.give
+    permission-message: You do not have the magic to conjure this potion!
+    default: op
