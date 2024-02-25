@@ -5,6 +5,7 @@ Morph potion, that turns you into a random mob. Inspired by Knarfy!
 - Latest [morph](https://www.spigotmc.org/resources/morph.8846/) plugin (not mod)
 - Latest dev [protocollib](https://github.com/dmulloy2/ProtocolLib/releases/tag/5.1.0) build
 - Latest [libs disguises](https://www.spigotmc.org/resources/libs-disguises-free.81/) version
+- Latest [nbtapi](https://www.spigotmc.org/resources/nbt-api.7939/) version
 
 # Installation
 Just drag and drop the plugin into your plugins folder, along with the other plugins, and then restart your server.
