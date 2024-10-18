@@ -1,3 +1,5 @@
+# Note: This plugin was developed for `1.20.1`
+
 # MorphPotion
 Morph potion, that turns you into a random mob. Inspired by Knarfy!
 
